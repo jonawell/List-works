@@ -1,11 +1,11 @@
-body {
+body  {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #f4f6;
     text-align: center;
     background: linear-gradient(135deg,#ff9a9e, #fad0c4);
 }
 
-h1 {
+h1  {
     color: #0909;
     font-size: 24px;
     text-transform: uppercase;
@@ -20,18 +20,18 @@ h1 {
     transition: all 0.3s ease-in-out;
 }
 
-h1:hover{
+h1:hover {
     background-color: rgb(221, 124, 208);
     color: #0909;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
 }
-ul {
+ul  {
     list-style-type: none;
     padding: 0;
     margin-right: 65vw;
 }
 
-li{
+li {
     display: flex;
     justify-content: space-between;
     border: solid 2px;
@@ -45,24 +45,24 @@ li{
 
 }
 
-.item:hover{
+.item:hover {
     background-color: greenyellow;
     transform: scale(1.08);
     transition: 0.2s ease-in-out;
 }
 
-.preco{
+.preco {
     font-weight: bold;
     color: #fc0000;
     
 }
 
-.preco:hover{
+.preco:hover {
     transition: 0.2s ease-in-out;
     transform: scale(1.2);
 }
 
-footer{
+footer {
     text-align: center;
     padding: 10px;
     background-color: #222;
