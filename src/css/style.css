@@ -35,7 +35,7 @@ li {
   display: flex;
   justify-content: space-between;
   border: solid 2px;
-  font-size: 18px;
+  font-size: 3vh;
   background-color: greenyellow;
   padding: 10px;
   margin: 5px 0;
